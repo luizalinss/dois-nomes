@@ -1,11 +1,13 @@
 Trabalho de Programação - Luiza Lins Evangelista
 7º período
+
 O que é um arquivo?
 R: Um arquivo é basicamente uma unidade fundamental de armazenamento de dados
 conservada em um dispositivo de armazenamento. Pode incluir diversos tipos de dados,
 como fotografias, clipes de vídeo, conteúdo textual, entre outros. Eles são agrupados em
 diretórios ( pastas ) , no interior de uma estrutura de arquivos no sistema de
 armazenamento do computador.
+
 O que é um arquivo de texto?
 R: É um tipo de documento que contém dados, armazenamento de informações e
 compartilhamento de documentos em formato de um texto simples, ou seja, interpretadas
@@ -14,11 +16,13 @@ direta, sem a necessidade de aplicativos mais específicos. Pode conter uma vari
 documentos, registros de dados, códigos, etc. Podemos citar como exemplo um
 código-fonte em linguagens de programação, como o Python ou até mesmo um documento
 criado no Bloco de Notas de um computador.
+
 O que é uma variável?
 R: Uma variável é um local de armazenamento onde você pode armazenar dados que
 podem mudar durante a execução do programa, alem de que , cada variável possui um
 nome exclusivo que é usado para se referir a ela em todo o código do programa. Ademais,
 pode armazenar diversos tipos de dados, sejam inteiros ou não, ativos entre outros.
+
 O que é um servidor?
 R: Um servidor é um computador projetado para fornecer recursos , dados a outros
 computadores clientes em uma rede. Cada servidor criado fornece um tipo específico de
