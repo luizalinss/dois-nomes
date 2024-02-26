@@ -29,3 +29,29 @@ computadores clientes em uma rede. Cada servidor criado fornece um tipo específ
 serviço, como servidor de e-mail, servidor de banco de dados, servidor de arquivos , alem
 de serem programados para estarem. sempre disponível aos indivíduos que usufruem do
 mesmo.
+
+Encontre referências e comente: 
+a) A relação entre a LGPD e os Data Centers no Brasil
+R: a) Data Center do controlador é o local onde rodam os sistemas nos quais são instalados e mantidos os dados,
+é essa a estrutura que deve, prioritariamente, operar com base nos preceitos da LGPD. Os data centers estão presentes nas alterações da LGPD. Essa estrutura
+normalmente inclui servidores, bancos de dados, armazenamento e processamento de dados e outras ferramentas físicas e digitais. Além disso, uma das principais
+funções de um data center é garantir que os dados e sistemas ali hospedados estejam disponíveis a qualquer momento.  Ele é responsável por armazenar grandes
+quantidades de dados, inclusive dados protegidos pela LGPD. Cabe aos Data Centers,garantir a proteção física dos ambientes para que a gestão das informações seja
+segura.
+
+b) Formatos de arquivos de dados proprietários e abertos 
+R: Um formato aberto designa uma especificação técnica de domínio público usada para descrever e armazenar dados sem restrições ao seu uso. O Open tende a ter 
+uma vida útil mais longa porque é apoiado por uma comunidade mais ampla de usuários, garantindo acesso seguro. Os proprietários estão sujeitos às decisões 
+comerciais do fabricante, o que pode resultar em interrupções de produção ou alterações incompatíveis. Portanto, os formatos abertos geralmente oferecem vantagens
+sobre os formatos proprietários. Basicamente , Os formatos proprietários simbolizam a privatização da memória digital. Documentos armazenados em formatos abertos
+são aqueles que aderem a padrões acessíveis, cujas especificações são divulgadas e podem ser compreendidas por todos.
+
+b.1) Forneça exemplos de formatos
+R: Formatos abertos são ; OASIS e EPUB ,"JavaScript Object Notation"; "PDF", 
+Formatos proprietários são : DWG e PPT, "Microsoft Word"; "Adobe"; "Excel"
+
+b.2) Discuta as implicações relacionadas a dados públicos
+Os formatos abertos tornam os dados públicos mais disponíveis ao conter informações que podem ser acessadas e usadas por uma variedade de sistemas e aplicativos 
+sem a necessidade de software ou licenças especiais para visualizá-los ou manipulá-los. Os dados em formatos proprietários dependem de fornecedores de software 
+para visualização e manipulação, podem apresentar restrições de licenciamento e uso, ou resultar em custos que dificultam o acesso aos dados públicos.
+
