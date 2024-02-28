@@ -1,0 +1,20 @@
+1) Explique as diferenças entre 3 linguagens de programação:
+Python é considerado simples e fácil de ler códigos. A linguagem de programação é amplamente empregada em inteligência artificial, desenvolvimento web, computação científica,
+entre outras aplicações. Ela proporciona uma aprendizagem tranquila, com uma comunicação eficiente e uma grande variedade de bibliotecas,
+porém é mais lenta em comparação com outras linguagens de programação. 
+A linguagem de programação JavaScript é essencial para criar páginas interativas e dinâmicas na internet, sendo a linguagem predominante no desenvolvimento web.
+Todos os navegadores atuais estão habilitados ao JavaScript, mas questões de segurança e inconsistências são motivos de preocupação. A linguagem de programação orientada a objetos,
+que é reconhecida pela sua simplicidade e facilidade de uso, é amplamente empregada no desenvolvimento de softwares para Android.
+As programações que são criadas no Java podem ser executadas em diferentes dispositivos, mas é uma linguagem mais complexa do que as outras.
+PHP é uma linguagem de script do lado do servidor popular para o desenvolvimento web, usada principalmente para criar páginas dinâmicas.
+- Vantagens: possui uma curva de aprendizado relativamente fácil e uma grande comunidade de desenvolvedores.
+- Desvantagens: tem algumas inconsistências de design e questões de segurança que são criticadas por programadores mais experientes.
+- Aplicações usuais: predominantemente usada no desenvolvimento web para criar páginas dinâmicas e aplicações web. 
+É a linguagem por trás de sistemas de gerenciamento de conteúdo populares como WordPress, Joomla e Drupa
+
+a. Tente fazer um código mínimo em cada uma delas :
+PYTHON : print("Olá, mundo!")
+JAVASCRIPT : console.log("Olá, mundo!");
+PHP : <?php
+echo "Olá, mundo!";
+?>
