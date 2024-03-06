@@ -1,0 +1,22 @@
+Uma estrutura de repetição : 
+
+# Definindo uma lista de frutas
+frutas = ["maçã", "banana", "laranja", "morango", "uva"]
+
+# Iterando sobre a lista e imprimindo cada elemento
+for fruta in frutas:
+    print(fruta)
+
+Uma estrutura de tomada de decisão : 
+
+# Pedindo ao usuário para inserir um número
+numero = float(input("Digite um número: "))
+
+# Tomada de decisão para determinar se o número é positivo, negativo ou zero
+if numero > 0:
+    print("O número é positivo.")
+elif numero < 0:
+    print("O número é negativo.")
+else:
+    print("O número é zero.")
+
